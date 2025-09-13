@@ -18,27 +18,133 @@
   },
   {
     "id": "DE_NOH_001",
-    "lat": 52.50031856235598,
-    "lon": 6.878254358938207,
+    "lat": 52.59880100086036,
+    "lon": 6.861284356151809,
     "directions": {
-      "1": { "left": ["green", 12], "center": ["s_red", 8], "right": ["none", -1] },
-      "2": { "left": ["red", 5], "center": ["green", 10], "right": ["red", 5] }
+      "1": { "left": ["red", 10], "center": ["green", 8], "right": ["red", 5] },
+      "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
+      "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
+      "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
     }
   },
   {
     "id": "DE_NOH_002",
-    "lat": 53.551086,
-    "lon": 9.993682,
+    "lat": 52.54310758433591,
+    "lon": 6.844668127076257,
     "directions": {
-      "1": { "left": ["red", 10], "center": ["red", 5], "right": ["red", 5] }
+      "1": { "left": ["red", 10], "center": ["green", 8], "right": ["red", 5] },
+      "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
+      "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
+      "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
     }
   },
   {
     "id": "DE_NOH_003",
-    "lat": 48.137154,
-    "lon": 11.576124,
+    "lat": 52.50031856235598,
+    "lon": 6.878254358938207,
     "directions": {
-      "1": { "left": ["red", 4], "center": ["green", 10], "right": ["green", 20] }
+      "1": { "left": ["red", 10], "center": ["green", 8], "right": ["red", 5] },
+      "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
+      "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
+      "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
     }
-  }
+  },
+  {
+    "id": "DE_NOH_004",
+    "lat": 52.49836197323877,
+    "lon": 6.891866311324577,
+    "directions": {
+      "1": { "left": ["red", 10], "center": ["green", 8], "right": ["red", 5] },
+      "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
+      "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
+      "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
+    }
+  },
+  {
+    "id": "DE_NOH_005",
+    "lat": 52.48367123825207,
+    "lon": 6.964033970562182,
+    "directions": {
+      "1": { "left": ["red", 10], "center": ["green", 8], "right": ["red", 5] },
+      "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
+      "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
+      "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
+    }
+  },
+  {
+    "id": "DE_NOH_006",
+    "lat": 52.486461503540646,
+    "lon": 6.983233200235226,
+    "directions": {
+      "1": { "left": ["red", 10], "center": ["green", 8], "right": ["red", 5] },
+      "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
+      "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
+      "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
+    }
+  },
+  {
+    "id": "DE_NOH_007",
+    "lat": 52.45973720651225,
+    "lon": 7.038272536874173,
+    "directions": {
+      "1": { "left": ["red", 10], "center": ["green", 8], "right": ["red", 5] },
+      "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
+      "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
+      "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
+    }
+  },
+  {
+    "id": "DE_NOH_008",
+    "lat": 52.464065203927404,
+    "lon": 7.046697705208165,
+    "directions": {
+      "1": { "left": ["red", 10], "center": ["green", 8], "right": ["red", 5] },
+      "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
+      "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
+      "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
+    }
+  },
+  {
+    "id": "DE_NOH_009",
+    "lat": 52.46185988016401,
+    "lon": 7.066860305502964,
+    "directions": {
+      "1": { "left": ["red", 10], "center": ["green", 8], "right": ["red", 5] },
+      "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
+      "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
+      "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
+    }
+  },
+  {
+    "id": "DE_NOH_010",
+    "lat": 52.46185988016401,
+    "lon": 7.066860305502964,
+    "directions": {
+      "1": { "left": ["red", 10], "center": ["green", 8], "right": ["red", 5] },
+      "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
+      "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
+      "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
+    }
+  },
+  {
+    "id": "DE_NOH_011",
+    "lat": 52.46185988016401,
+    "lon": 7.066860305502964,
+    "directions": {
+      "1": { "left": ["red", 10], "center": ["green", 8], "right": ["red", 5] },
+      "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
+      "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] }
+    }
+  },
+  {
+    "id": "DE_NOH_009",
+    "lat": 52.46185988016401,
+    "lon": 7.066860305502964,
+    "directions": {
+      "1": { "left": ["red", 10], "center": ["green", 8], "right": ["red", 5] },
+      "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
+      "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
+      "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
+    }
+  },
 ]
