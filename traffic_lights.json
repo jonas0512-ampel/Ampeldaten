@@ -1,19 +1,11 @@
 [
   {
-    "id": "Test_001",
+    "id": "Test_virtuelle_Maschine",
     "lat": 37.4259988,
     "lon": -122.084,
     "directions": {
       "1": { "left": ["green", 12], "center": ["red", 8], "right": ["none", -1] },
       "2": { "left": ["red", 10], "center": ["green", 15], "right": ["red", 5] }
-    }
-  },
-  {
-    "id": "Test_002",
-    "lat": 54.508469,
-    "lon": 6.8839029,
-    "directions": {
-      "1": { "left": ["green", 12], "center": ["s_red", 8], "right": ["none", -1] }
     }
   },
   {
@@ -148,3 +140,4 @@
     }
   },
 ]
+
