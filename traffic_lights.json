@@ -138,6 +138,7 @@
       "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
       "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
     }
-  },
+  }
 ]
+
 
