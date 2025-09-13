@@ -1,0 +1,44 @@
+[
+  {
+        "id": "Test_001",
+        "lat": 37.4259988,
+        "lon": -122.084,
+        "directions": {
+            1: {"left": ("green", 12), "center": ("red", 8), "right": ("none", -1)},
+            2: {"left": ("red", 10), "center": ("green", 15), "right": ("red", 5)}
+        }
+    },
+    {
+        "id": "Test_002",
+        "lat": 54.508469,
+        "lon": 6.8839029,
+        "directions": {
+            1: {"left": ("green", 12), "center": ("s_red", 8), "right": ("none", -1)}
+        }
+    },
+    {
+        "id": "DE_NOH_001",
+        "lat": 52.50031856235598,
+        "lon": 6.878254358938207,
+        "directions": {
+            1: {"left": ("green", 12), "center": ("s_red", 8), "right": ("none", -1)},
+            2: {"left": ("red", 5), "center": ("green", 10), "right": ("red", 5)}
+        }
+    },
+    {
+        "id": "DE_NOH_002",
+        "lat": 53.551086,
+        "lon": 9.993682,
+        "directions": {
+            1: {"left": ("red", 10), "center": ("red", 5), "right": ("red", 5)}
+        }
+    },
+    {
+        "id": "DE_NOH_003",
+        "lat": 48.137154,
+        "lon": 11.576124,
+        "directions": {
+            1: {"left": ("red", 4), "center": ("green", 10), "right": ("green", 20)}
+        }
+    }
+]
