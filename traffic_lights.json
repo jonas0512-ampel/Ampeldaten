@@ -17,6 +17,38 @@
       "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
       "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
       "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
+    },
+    "lines": {
+      "1": [
+        { "lat": 52.59876778534823, "lon": 6.86123892752903, "bearing_min": 0, "bearing_max": 135 },
+        { "lat": 52.598385230684926, "lon": 6.859580893955268, "bearing_min": 0, "bearing_max": 135 },
+        { "lat": 52.5981492171928, "lon": 6.859057001827182, "bearing_min": 0, "bearing_max": 135 },
+        { "lat": 52.59778430195959, "lon": 6.858585566156194, "bearing_min": 0, "bearing_max": 135 },
+        { "lat": 52.59735746102817, "lon": 6.858279070557074, "bearing_min": 0, "bearing_max": 135 },
+        { "lat": 52.58172886905038, "lon": 6.853190941692077, "bearing_min": 0, "bearing_max": 135 }
+      ],
+      "2": [
+        { "lat": 52.59885453801118, "lon": 6.861272703527305, "bearing_min": 110, "bearing_max": 240 },
+        { "lat": 52.59948423946179, "lon": 6.860975155208649, "bearing_min": 110, "bearing_max": 240 },
+        { "lat": 52.59991086734655, "lon": 6.860675678112187, "bearing_min": 110, "bearing_max": 240 },
+        { "lat": 52.600647037508935, "lon": 6.859761341463212, "bearing_min": 110, "bearing_max": 240 },
+        { "lat": 52.60301265293785, "lon": 6.856555601451078, "bearing_min": 110, "bearing_max": 240 }
+      ],
+      "3": [
+        { "lat": 52.59882133715445, "lon": 6.861435884014469, "bearing_min": 225, "bearing_max": 350 },
+        { "lat": 52.59909054268181, "lon": 6.8622759873517225, "bearing_min": 225, "bearing_max": 350 },
+        { "lat": 52.5996389868111, "lon": 6.868301358049905, "bearing_min": 225, "bearing_max": 350 },
+        { "lat": 52.59963561045845, "lon": 6.869249780310952, "bearing_min": 225, "bearing_max": 350 },
+        { "lat": 52.599388440225624, "lon": 6.870092371371555, "bearing_min": 225, "bearing_max": 350 },
+        { "lat": 52.59499750681471, "lon": 6.882055425704351, "bearing_min": 225, "bearing_max": 350 }
+      ],
+      "4": [
+        { "lat": 52.59871719514652, "lon": 6.86133945156223, "bearing_min": 270, "bearing_max": 45 },
+        { "lat": 52.59777866371965, "lon": 6.861622554569692, "bearing_min": 270, "bearing_max": 45 },
+        { "lat": 52.597264326797614, "lon": 6.861961922726977, "bearing_min": 270, "bearing_max": 45 },
+        { "lat": 52.59659637933245, "lon": 6.862730334748022, "bearing_min": 270, "bearing_max": 45 },
+        { "lat": 52.584375971616, "lon": 6.879557437062886, "bearing_min": 270, "bearing_max": 45 }
+      ]
     }
   },
   {
@@ -28,6 +60,70 @@
       "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
       "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
       "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
+    },
+    "lines": {
+      "1": [
+        { "lat": 52.543081018049605, "lon": 6.844593687083858, "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.54270358391531,  "lon": 6.84260794499076,  "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.542449421191634, "lon": 6.841771882762487, "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.542122097000345, "lon": 6.841125673827719, "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.54174163555112,  "lon": 6.840599414321815, "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.5410154539035,   "lon": 6.83990140871299,  "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.540787674976,    "lon": 6.839590758576378, "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.54011258080129,  "lon": 6.837852066822251, "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.53949780326644,  "lon": 6.835680035961246, "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.53935973310405,  "lon": 6.834927315701833, "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.53921961094352,  "lon": 6.833235231370338, "bearing_min": 10, "bearing_max": 135 }
+      ],
+      "2": [
+        { "lat": 52.54313210010662,  "lon": 6.844614409642759, "bearing_min": 135, "bearing_max": 245 },
+        { "lat": 52.543567693791374, "lon": 6.844362854180986, "bearing_min": 135, "bearing_max": 245 },
+        { "lat": 52.54636602791945,  "lon": 6.8433944291978435,"bearing_min": 135, "bearing_max": 245 },
+        { "lat": 52.547407053315055, "lon": 6.842901540226762, "bearing_min": 135, "bearing_max": 245 },
+        { "lat": 52.54843609383735,  "lon": 6.842361072072549, "bearing_min": 135, "bearing_max": 245 },
+        { "lat": 52.54915109548719,  "lon": 6.842266753919745, "bearing_min": 135, "bearing_max": 245 },
+        { "lat": 52.549933012002754, "lon": 6.842489240765957, "bearing_min": 135, "bearing_max": 245 },
+        { "lat": 52.56104227597754,  "lon": 6.846279339327708, "bearing_min": 135, "bearing_max": 245 }
+      ],
+      "3": [
+        { "lat": 52.543107394203275, "lon": 6.844717236987748, "bearing_min": 200, "bearing_max": 330 },
+        { "lat": 52.543371892058985, "lon": 6.84575477767433,  "bearing_min": 200, "bearing_max": 330 },
+        { "lat": 52.543628242729085, "lon": 6.846310094190017, "bearing_min": 200, "bearing_max": 330 },
+        { "lat": 52.5443297890001,   "lon": 6.847156808868391, "bearing_min": 200, "bearing_max": 330 },
+        { "lat": 52.54490192431976,  "lon": 6.847894477425825, "bearing_min": 200, "bearing_max": 330 },
+        { "lat": 52.545371827056016, "lon": 6.848936217290458, "bearing_min": 200, "bearing_max": 330 },
+        { "lat": 52.54563841404715,  "lon": 6.849903133217708, "bearing_min": 200, "bearing_max": 330 },
+        { "lat": 52.54577283815394,  "lon": 6.851133852037265, "bearing_min": 200, "bearing_max": 330 },
+        { "lat": 52.54593833816179,  "lon": 6.854293851424018, "bearing_min": 200, "bearing_max": 330 },
+        { "lat": 52.54607724569456,  "lon": 6.855303781415074, "bearing_min": 200, "bearing_max": 330 },
+        { "lat": 52.54642507883054,  "lon": 6.856686189828679, "bearing_min": 200, "bearing_max": 330 },
+        { "lat": 52.54739672277708,  "lon": 6.8601226612393305,"bearing_min": 200, "bearing_max": 330 },
+        { "lat": 52.551349235347374, "lon": 6.871404163671713, "bearing_min": 200, "bearing_max": 330 }
+      ],
+      "4": [
+        { "lat": 52.54305723615212,  "lon": 6.844678556169498, "bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.54274585370567,  "lon": 6.844939992008676, "bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.54210898350371,  "lon": 6.84561094213575,  "bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.54029177477486,  "lon": 6.847588369490211, "bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.53974646241849,  "lon": 6.848322294718741, "bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.5393410736566,   "lon": 6.8491431766896085,"bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.5389749446274,   "lon": 6.850264373689214, "bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.53843397936163,  "lon": 6.852105623991434, "bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.538042961039224, "lon": 6.852909014922432, "bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.53759399643681,  "lon": 6.8535985589739425,"bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.53648140769465,  "lon": 6.8550756058382945,"bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.53605107491035,  "lon": 6.8553922195597465,"bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.53551614604265,  "lon": 6.855524886477951, "bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.53504891639912,  "lon": 6.8554059414447295,"bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.53311480878148,  "lon": 6.854280479566285, "bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.53250463647885,  "lon": 6.854080169292473, "bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.531864421234076, "lon": 6.854210057981419, "bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.53135369915236,  "lon": 6.854482761108358, "bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.5307099600937,   "lon": 6.854964445033886, "bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.530023600585054, "lon": 6.855304487124727, "bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.529400587971736, "lon": 6.85552201669401,  "bearing_min": 280, "bearing_max": 80 },
+        { "lat": 52.52763149614597,  "lon": 6.855875108215287, "bearing_min": 280, "bearing_max": 80 }
+      ]
     }
   },
   {
@@ -39,6 +135,51 @@
       "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
       "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
       "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
+    },
+    "lines": {
+      "1": [
+        { "lat": 52.500274141696764, "lon": 6.878235287923388, "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.500262895697546, "lon": 6.877452819080048, "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.500131654171554, "lon": 6.876501209157652, "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.499503369975855, "lon": 6.872852703326117, "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.49914174430816,  "lon": 6.871903548080837, "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.49816562047275,  "lon": 6.870157752214482, "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.497942053807634, "lon": 6.869379991034748, "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.497739229514394, "lon": 6.8645684231534005,"bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.49753728884946,  "lon": 6.863473876996267, "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.496930300807406, "lon": 6.861260890878526, "bearing_min": 10, "bearing_max": 135 }
+      ],
+      "2": [
+        { "lat": 52.50034712469673,  "lon": 6.878264078715404, "bearing_min": 110, "bearing_max": 200 },
+        { "lat": 52.500640026924515, "lon": 6.878017318525963, "bearing_min": 110, "bearing_max": 200 },
+        { "lat": 52.503240912001786, "lon": 6.87661207261786,  "bearing_min": 110, "bearing_max": 200 },
+        { "lat": 52.50405451256347,  "lon": 6.876021118113954, "bearing_min": 110, "bearing_max": 200 },
+        { "lat": 52.50513594844793,  "lon": 6.874603429944415, "bearing_min": 110, "bearing_max": 200 },
+        { "lat": 52.506573213378175, "lon": 6.87232919670447,  "bearing_min": 110, "bearing_max": 200 },
+        { "lat": 52.50982164272662,  "lon": 6.865217468433116, "bearing_min": 110, "bearing_max": 200 },
+        { "lat": 52.51072375405542,  "lon": 6.863864921999777, "bearing_min": 110, "bearing_max": 200 },
+        { "lat": 52.514605626918495, "lon": 6.859823740922366, "bearing_min": 110, "bearing_max": 200 }
+      ],
+      "3": [
+        { "lat": 52.500335271694325, "lon": 6.878416283815966, "bearing_min": 225, "bearing_max": 340 },
+        { "lat": 52.50047953403731,  "lon": 6.879938984840692, "bearing_min": 225, "bearing_max": 340 },
+        { "lat": 52.50044550760117,  "lon": 6.882145544634511, "bearing_min": 225, "bearing_max": 340 },
+        { "lat": 52.500191297550316, "lon": 6.884490457394662, "bearing_min": 225, "bearing_max": 340 },
+        { "lat": 52.49979610105012,  "lon": 6.886774457232718, "bearing_min": 225, "bearing_max": 340 },
+        { "lat": 52.499170283950264, "lon": 6.889271668596706, "bearing_min": 225, "bearing_max": 340 },
+        { "lat": 52.498501753131734, "lon": 6.891416260553569, "bearing_min": 225, "bearing_max": 340 }
+      ],
+      "4": [
+        { "lat": 52.50025183705105,  "lon": 6.878353523495207, "bearing_min": 280, "bearing_max": 60 },
+        { "lat": 52.49995304344711,  "lon": 6.878703151616719, "bearing_min": 280, "bearing_max": 60 },
+        { "lat": 52.4991263309561,   "lon": 6.880373860160375, "bearing_min": 280, "bearing_max": 60 },
+        { "lat": 52.49861381136054,  "lon": 6.881390297347707, "bearing_min": 280, "bearing_max": 60 },
+        { "lat": 52.4973190980586,   "lon": 6.883753074473304, "bearing_min": 280, "bearing_max": 60 },
+        { "lat": 52.49641079050622,  "lon": 6.8851379753845094,"bearing_min": 280, "bearing_max": 60 },
+        { "lat": 52.49620923114503,  "lon": 6.885295739386493, "bearing_min": 280, "bearing_max": 60 },
+        { "lat": 52.495987246429564, "lon": 6.885254195140959, "bearing_min": 280, "bearing_max": 60 },
+        { "lat": 52.49499714387534,  "lon": 6.884777154429457, "bearing_min": 280, "bearing_max": 60 }
+      ]
     }
   },
   {
@@ -50,6 +191,55 @@
       "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
       "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
       "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
+    },
+    "lines": {
+      "1": [
+        { "lat": 52.49836423023535, "lon": 6.891798807751485, "bearing_min": 45, "bearing_max": 180 },
+        { "lat": 52.49879135796934, "lon": 6.890527018362434, "bearing_min": 45, "bearing_max": 180 },
+        { "lat": 52.49930413810367, "lon": 6.8888139391035565,"bearing_min": 45, "bearing_max": 180 },
+        { "lat": 52.49985421026685, "lon": 6.886459168842265, "bearing_min": 45, "bearing_max": 180 },
+        { "lat": 52.50019928373737, "lon": 6.884364744437789, "bearing_min": 45, "bearing_max": 180 },
+        { "lat": 52.5004170052442,  "lon": 6.882472633876802, "bearing_min": 45, "bearing_max": 180 },
+        { "lat": 52.50048988789334, "lon": 6.880591950553963, "bearing_min": 45, "bearing_max": 180 },
+        { "lat": 52.50039479563088, "lon": 6.878899620065226, "bearing_min": 45, "bearing_max": 180 }
+      ],
+      "2": [
+        { "lat": 52.49840127880836, "lon": 6.8918902483924285,"bearing_min": 100, "bearing_max": 240 },
+        { "lat": 52.501475367070555,"lon": 6.892214452085284, "bearing_min": 100, "bearing_max": 240 },
+        { "lat": 52.50209746727958, "lon": 6.892473545095754, "bearing_min": 100, "bearing_max": 240 },
+        { "lat": 52.50265331406854, "lon": 6.8929763808958455,"bearing_min": 100, "bearing_max": 240 },
+        { "lat": 52.50500068646559, "lon": 6.895916712586683, "bearing_min": 100, "bearing_max": 240 },
+        { "lat": 52.5056646823617,  "lon": 6.89644032283536,  "bearing_min": 100, "bearing_max": 240 },
+        { "lat": 52.50626419472735, "lon": 6.896734567832539, "bearing_min": 100, "bearing_max": 240 },
+        { "lat": 52.507345109288224,"lon": 6.896773574424174, "bearing_min": 100, "bearing_max": 240 },
+        { "lat": 52.50882285295208, "lon": 6.89648694636216,  "bearing_min": 100, "bearing_max": 240 },
+        { "lat": 52.50962168396299, "lon": 6.895948272195739, "bearing_min": 100, "bearing_max": 240 },
+        { "lat": 52.51021517451824, "lon": 6.895204679988552, "bearing_min": 100, "bearing_max": 240 },
+        { "lat": 52.510727197980515,"lon": 6.8941490764782145,"bearing_min": 100, "bearing_max": 240 },
+        { "lat": 52.51238058824151, "lon": 6.890571714653106, "bearing_min": 100, "bearing_max": 240 },
+        { "lat": 52.51288657541389, "lon": 6.889814831776192, "bearing_min": 100, "bearing_max": 240 },
+        { "lat": 52.51374321799838, "lon": 6.889045573443752, "bearing_min": 100, "bearing_max": 240 },
+        { "lat": 52.51466562170819, "lon": 6.8886584347314965,"bearing_min": 100, "bearing_max": 240 }
+      ],
+      "3": [
+        { "lat": 52.49831831093786, "lon": 6.891947343473731, "bearing_min": 225, "bearing_max": 345 },
+        { "lat": 52.49698815372079, "lon": 6.895853052067508, "bearing_min": 225, "bearing_max": 345 },
+        { "lat": 52.49627779276858, "lon": 6.898399357549607, "bearing_min": 225, "bearing_max": 345 },
+        { "lat": 52.49576476094191, "lon": 6.9006899738072605,"bearing_min": 225, "bearing_max": 345 },
+        { "lat": 52.49545522334239, "lon": 6.902753442526148, "bearing_min": 225, "bearing_max": 345 },
+        { "lat": 52.49527692182642, "lon": 6.904907477964315, "bearing_min": 225, "bearing_max": 345 },
+        { "lat": 52.49495148287235, "lon": 6.907084050743606, "bearing_min": 225, "bearing_max": 345 },
+        { "lat": 52.49447676767889, "lon": 6.9094122044216135,"bearing_min": 225, "bearing_max": 345 },
+        { "lat": 52.49426381960302, "lon": 6.911849337481129, "bearing_min": 225, "bearing_max": 345 },
+        { "lat": 52.4936416127897,  "lon": 6.922487859057412, "bearing_min": 225, "bearing_max": 345 }
+      ],
+      "4": [
+        { "lat": 52.49831141750897, "lon": 6.891864767339598, "bearing_min": 340, "bearing_max": 90 },
+        { "lat": 52.49735805233345, "lon": 6.891704006289245, "bearing_min": 340, "bearing_max": 90 },
+        { "lat": 52.496766355799764,"lon": 6.891362785394932, "bearing_min": 340, "bearing_max": 90 },
+        { "lat": 52.49619068241546, "lon": 6.890833621274311, "bearing_min": 340, "bearing_max": 90 },
+        { "lat": 52.49553238554432, "lon": 6.889795863255472, "bearing_min": 340, "bearing_max": 90 }
+      ]
     }
   },
   {
@@ -61,6 +251,48 @@
       "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
       "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
       "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
+    },
+    "lines": {
+      "1": [
+        { "lat": 52.48364391989895,  "lon": 6.9639379907736725, "bearing_min": 50, "bearing_max": 225 },
+        { "lat": 52.48306203553636,  "lon": 6.961870794578971,  "bearing_min": 50, "bearing_max": 225 },
+        { "lat": 52.48279379787533,  "lon": 6.960233219959775,  "bearing_min": 50, "bearing_max": 225 },
+        { "lat": 52.48272237686919,  "lon": 6.958209977063717,  "bearing_min": 50, "bearing_max": 225 },
+        { "lat": 52.48289857487637,  "lon": 6.9564774678360095, "bearing_min": 50, "bearing_max": 225 },
+        { "lat": 52.48335748448318,  "lon": 6.954560467685809,  "bearing_min": 50, "bearing_max": 225 },
+        { "lat": 52.48410563307655,  "lon": 6.952811837779819,  "bearing_min": 50, "bearing_max": 225 },
+        { "lat": 52.48524612044312,  "lon": 6.951235109388421,  "bearing_min": 50, "bearing_max": 225 },
+        { "lat": 52.48977310824134,  "lon": 6.947653170808877,  "bearing_min": 50, "bearing_max": 225 },
+        { "lat": 52.49103833038606,  "lon": 6.947042987033768,  "bearing_min": 50, "bearing_max": 225 },
+        { "lat": 52.49247293703502,  "lon": 6.946916491782645,  "bearing_min": 50, "bearing_max": 225 },
+        { "lat": 52.49411860186481,  "lon": 6.947292365338569,  "bearing_min": 50, "bearing_max": 225 }
+      ],
+      "2": [
+        { "lat": 52.483731427742754, "lon": 6.963963866330914,  "bearing_min": 135, "bearing_max": 225 },
+        { "lat": 52.48412736411393,  "lon": 6.963751137914272,  "bearing_min": 135, "bearing_max": 225 },
+        { "lat": 52.48756902553666,  "lon": 6.963056054032677,  "bearing_min": 135, "bearing_max": 225 },
+        { "lat": 52.48816272205954,  "lon": 6.9630167222312025, "bearing_min": 135, "bearing_max": 225 },
+        { "lat": 52.491521475048046, "lon": 6.963570097815278,  "bearing_min": 135, "bearing_max": 225 }
+      ],
+      "3": [
+        { "lat": 52.483716597109265, "lon": 6.964105060855303,  "bearing_min": 225, "bearing_max": 350 },
+        { "lat": 52.4843444346796,   "lon": 6.965791185006168,  "bearing_min": 225, "bearing_max": 350 },
+        { "lat": 52.486778769253306, "lon": 6.971242914830526,  "bearing_min": 225, "bearing_max": 350 },
+        { "lat": 52.487352101510396, "lon": 6.973007928406247,  "bearing_min": 225, "bearing_max": 350 },
+        { "lat": 52.48774503958447,  "lon": 6.97492992950265,   "bearing_min": 225, "bearing_max": 350 },
+        { "lat": 52.48788821794881,  "lon": 6.97670670534967,   "bearing_min": 225, "bearing_max": 350 },
+        { "lat": 52.48779320386592,  "lon": 6.978689509710193,  "bearing_min": 225, "bearing_max": 350 },
+        { "lat": 52.487390236152464, "lon": 6.980811630695939,  "bearing_min": 225, "bearing_max": 350 },
+        { "lat": 52.48669365241594,  "lon": 6.982743834134794,  "bearing_min": 225, "bearing_max": 350 }
+      ],
+      "4": [
+        { "lat": 52.48361921060928,  "lon": 6.964035568558671,  "bearing_min": 330, "bearing_max": 80 },
+        { "lat": 52.48326599358953,  "lon": 6.964175097474509,  "bearing_min": 330, "bearing_max": 80 },
+        { "lat": 52.48277913571587,  "lon": 6.963993390596102,  "bearing_min": 330, "bearing_max": 80 },
+        { "lat": 52.479523929939035, "lon": 6.964559340087135,  "bearing_min": 330, "bearing_max": 80 },
+        { "lat": 52.478835480549634, "lon": 6.96433432449092,   "bearing_min": 330, "bearing_max": 80 },
+        { "lat": 52.472500603873414, "lon": 6.96079782817597,   "bearing_min": 330, "bearing_max": 80 }
+      ]
     }
   },
   {
@@ -72,6 +304,48 @@
       "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
       "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
       "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
+    },
+    "lines": {
+      "1": [
+        { "lat": 52.486482975457506, "lon": 6.983140841917759, "bearing_min": 10, "bearing_max": 170 },
+        { "lat": 52.48707258746043,  "lon": 6.981810175742027, "bearing_min": 10, "bearing_max": 170 },
+        { "lat": 52.487590325482046, "lon": 6.979935914883157, "bearing_min": 10, "bearing_max": 170 },
+        { "lat": 52.48785343036033,  "lon": 6.97777178758443,  "bearing_min": 10, "bearing_max": 170 },
+        { "lat": 52.487821802043925, "lon": 6.975818050295317, "bearing_min": 10, "bearing_max": 170 },
+        { "lat": 52.48759117528138,  "lon": 6.973856947609704, "bearing_min": 10, "bearing_max": 170 },
+        { "lat": 52.48694963476831,  "lon": 6.97170518214142,  "bearing_min": 10, "bearing_max": 170 },
+        { "lat": 52.48611465299382,  "lon": 6.969704109237284, "bearing_min": 10, "bearing_max": 170 },
+        { "lat": 52.48390629878111,  "lon": 6.964703687615554, "bearing_min": 10, "bearing_max": 170 }
+      ],
+      "2": [
+        { "lat": 52.48649945843954,  "lon": 6.983287665480191, "bearing_min": 120, "bearing_max": 270 },
+        { "lat": 52.48686945321592,  "lon": 6.983740836934913, "bearing_min": 120, "bearing_max": 270 },
+        { "lat": 52.4872284552103,   "lon": 6.983851810613999, "bearing_min": 120, "bearing_max": 270 },
+        { "lat": 52.488240612600265, "lon": 6.983554790736775, "bearing_min": 120, "bearing_max": 270 },
+        { "lat": 52.49099574669998,  "lon": 6.982436703107652, "bearing_min": 120, "bearing_max": 270 },
+        { "lat": 52.49149649552234,  "lon": 6.982038995781977, "bearing_min": 120, "bearing_max": 270 },
+        { "lat": 52.49198684195008,  "lon": 6.981349887184564, "bearing_min": 120, "bearing_max": 270 },
+        { "lat": 52.4931955816393,   "lon": 6.978991147956094, "bearing_min": 120, "bearing_max": 270 }
+      ],
+      "3": [
+        { "lat": 52.48642261836679,  "lon": 6.983245571683682, "bearing_min": 270, "bearing_max": 350 },
+        { "lat": 52.48238397030238,  "lon": 6.99046468403256,  "bearing_min": 270, "bearing_max": 350 },
+        { "lat": 52.4777042768369,   "lon": 6.998817850392129, "bearing_min": 270, "bearing_max": 350 },
+        { "lat": 52.475062786229216, "lon": 7.003504471772459, "bearing_min": 270, "bearing_max": 350 },
+        { "lat": 52.47433562401747,  "lon": 7.00437318101126,  "bearing_min": 270, "bearing_max": 350 },
+        { "lat": 52.47339845929213,  "lon": 7.005369660523485, "bearing_min": 270, "bearing_max": 350 },
+        { "lat": 52.47273773504517,  "lon": 7.006513973675283, "bearing_min": 270, "bearing_max": 350 }
+      ],
+      "4": [
+        { "lat": 52.48642373591528,  "lon": 6.983140589228157, "bearing_min": 30, "bearing_max": 170 },
+        { "lat": 52.48628140800602,  "lon": 6.982845453342037, "bearing_min": 30, "bearing_max": 170 },
+        { "lat": 52.486285094211524, "lon": 6.982352461054319, "bearing_min": 30, "bearing_max": 170 },
+        { "lat": 52.486376239340075, "lon": 6.981740397923261, "bearing_min": 30, "bearing_max": 170 },
+        { "lat": 52.48708699683064,  "lon": 6.9797574256218695,"bearing_min": 30, "bearing_max": 170 },
+        { "lat": 52.48713143842343,  "lon": 6.979127386999181, "bearing_min": 30, "bearing_max": 170 },
+        { "lat": 52.48707868471405,  "lon": 6.978152087867699, "bearing_min": 30, "bearing_max": 170 },
+        { "lat": 52.48697160912121,  "lon": 6.977547250521354, "bearing_min": 30, "bearing_max": 170 }
+      ]
     }
   },
   {
@@ -83,6 +357,42 @@
       "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
       "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
       "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
+    },
+    "lines": {
+      "1": [
+        { "lat": 52.459729554105536, "lon": 7.038197667825898, "bearing_min": 90, "bearing_max": 200 },
+        { "lat": 52.459654012247626, "lon": 7.036952329350555, "bearing_min": 90, "bearing_max": 200 },
+        { "lat": 52.45982262938824,  "lon": 7.035078237294613, "bearing_min": 90, "bearing_max": 200 },
+        { "lat": 52.46139585157056,  "lon": 7.028120206601471, "bearing_min": 90, "bearing_max": 200 },
+        { "lat": 52.461891131310296, "lon": 7.026836708997223, "bearing_min": 90, "bearing_max": 200 },
+        { "lat": 52.4656598285346,   "lon": 7.020463616839635, "bearing_min": 90, "bearing_max": 200 },
+        { "lat": 52.47017577429975,  "lon": 7.012918375871351, "bearing_min": 90, "bearing_max": 200 }
+      ],
+      "2": [
+        { "lat": 52.459767316333256, "lon": 7.03825629870056,  "bearing_min": 135, "bearing_max": 225 },
+        { "lat": 52.45992964733853,  "lon": 7.038218722011038, "bearing_min": 135, "bearing_max": 225 }
+      ],
+      "3": [
+        { "lat": 52.45974377831479,  "lon": 7.038308546421263, "bearing_min": 180, "bearing_max": 300 },
+        { "lat": 52.45994296473401,  "lon": 7.03942514260612,  "bearing_min": 180, "bearing_max": 300 },
+        { "lat": 52.4603022756161,   "lon": 7.040574736687802, "bearing_min": 180, "bearing_max": 300 },
+        { "lat": 52.460952050307924, "lon": 7.041871897433452, "bearing_min": 180, "bearing_max": 300 },
+        { "lat": 52.46387125796275,  "lon": 7.046438855691775, "bearing_min": 180, "bearing_max": 300 }
+      ],
+      "4": [
+        { "lat": 52.45968331320904,  "lon": 7.038269079058779, "bearing_min": 280, "bearing_max": 45 },
+        { "lat": 52.4592601400891,   "lon": 7.038473003541867, "bearing_min": 280, "bearing_max": 45 },
+        { "lat": 52.458730423315046, "lon": 7.03913425188523,  "bearing_min": 280, "bearing_max": 45 },
+        { "lat": 52.457857862273386, "lon": 7.0408636389721835,"bearing_min": 280, "bearing_max": 45 },
+        { "lat": 52.45664510662061,  "lon": 7.043371914530724, "bearing_min": 280, "bearing_max": 45 },
+        { "lat": 52.45623249874561,  "lon": 7.044086150510935, "bearing_min": 280, "bearing_max": 45 },
+        { "lat": 52.45542789022679,  "lon": 7.045245741192275, "bearing_min": 280, "bearing_max": 45 },
+        { "lat": 52.4543256076206,   "lon": 7.046672969724341, "bearing_min": 280, "bearing_max": 45 },
+        { "lat": 52.45364386527734,  "lon": 7.047389693720703, "bearing_min": 280, "bearing_max": 45 },
+        { "lat": 52.45145308152695,  "lon": 7.048817178916636, "bearing_min": 280, "bearing_max": 45 },
+        { "lat": 52.45048676713279,  "lon": 7.049867888855005, "bearing_min": 280, "bearing_max": 45 },
+        { "lat": 52.449683182541804, "lon": 7.051022078542417, "bearing_min": 280, "bearing_max": 45 }
+      ]
     }
   },
   {
@@ -94,6 +404,47 @@
       "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
       "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
       "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
+    },
+    "lines": {
+      "1": [
+        { "lat": 52.46400728561122,  "lon": 7.046617316312307, "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.460902399526475, "lon": 7.041744796489837, "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.460274250364364, "lon": 7.040529391151466, "bearing_min": 10, "bearing_max": 135 },
+        { "lat": 52.45979567450971,  "lon": 7.038669110563177, "bearing_min": 10, "bearing_max": 135 }
+      ],
+      "2": [
+        { "lat": 52.46408892343334,  "lon": 7.046636513066858, "bearing_min": 100, "bearing_max": 260 },
+        { "lat": 52.464564879933874, "lon": 7.046184700742657, "bearing_min": 100, "bearing_max": 260 },
+        { "lat": 52.46663924616999,  "lon": 7.045572474447226, "bearing_min": 100, "bearing_max": 260 },
+        { "lat": 52.4697732132025,   "lon": 7.043303678750448, "bearing_min": 100, "bearing_max": 260 },
+        { "lat": 52.47064204131652,  "lon": 7.043113185064982, "bearing_min": 100, "bearing_max": 260 },
+        { "lat": 52.47215409609041,  "lon": 7.043334669080934, "bearing_min": 100, "bearing_max": 260 },
+        { "lat": 52.47325091294175,  "lon": 7.042916116034121, "bearing_min": 100, "bearing_max": 260 },
+        { "lat": 52.474667750571996, "lon": 7.042083266199711, "bearing_min": 100, "bearing_max": 260 },
+        { "lat": 52.47528883087756,  "lon": 7.041300548027351, "bearing_min": 100, "bearing_max": 260 },
+        { "lat": 52.47655312755168,  "lon": 7.038975972322305, "bearing_min": 100, "bearing_max": 260 },
+        { "lat": 52.47785952793865,  "lon": 7.03733025425791,  "bearing_min": 100, "bearing_max": 260 },
+        { "lat": 52.48026161756252,  "lon": 7.034836603996837, "bearing_min": 100, "bearing_max": 260 },
+        { "lat": 52.48307092890769,  "lon": 7.03295871802672,  "bearing_min": 100, "bearing_max": 260 }
+      ],
+      "3": [
+        { "lat": 52.464080330603934, "lon": 7.0467254917630555,"bearing_min": 200, "bearing_max": 350 },
+        { "lat": 52.46489364710064,  "lon": 7.048275316177666, "bearing_min": 200, "bearing_max": 350 },
+        { "lat": 52.46551309420215,  "lon": 7.050033832915062, "bearing_min": 200, "bearing_max": 350 },
+        { "lat": 52.465925347107714, "lon": 7.051927171337809, "bearing_min": 200, "bearing_max": 350 },
+        { "lat": 52.46610569545868,  "lon": 7.054034007844791, "bearing_min": 200, "bearing_max": 350 },
+        { "lat": 52.46596344563628,  "lon": 7.056277455068795, "bearing_min": 200, "bearing_max": 350 },
+        { "lat": 52.46544757021621,  "lon": 7.058812065668917, "bearing_min": 200, "bearing_max": 350 },
+        { "lat": 52.46450738040329,  "lon": 7.061226037257768, "bearing_min": 200, "bearing_max": 350 },
+        { "lat": 52.46218527672244,  "lon": 7.066074313469898, "bearing_min": 200, "bearing_max": 350 }
+      ],
+      "4": [
+        { "lat": 52.46398876368198,  "lon": 7.046740866923955, "bearing_min": 280, "bearing_max": 30 },
+        { "lat": 52.463422214173136, "lon": 7.047142638795066, "bearing_min": 280, "bearing_max": 30 },
+        { "lat": 52.46141143337158,  "lon": 7.049773498353858, "bearing_min": 280, "bearing_max": 30 },
+        { "lat": 52.460595505121944, "lon": 7.051718269440784, "bearing_min": 280, "bearing_max": 30 },
+        { "lat": 52.45572598758352,  "lon": 7.0544951189978065,"bearing_min": 280, "bearing_max": 30 }
+      ]
     }
   },
   {
@@ -105,6 +456,44 @@
       "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
       "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
       "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
+    },
+    "lines": {
+      "1": [
+        { "lat": 52.46185851107791,  "lon": 7.06675830792426,  "bearing_min": 45, "bearing_max": 180 },
+        { "lat": 52.46439100073931,  "lon": 7.061390219787768, "bearing_min": 45, "bearing_max": 180 },
+        { "lat": 52.46530968213224,  "lon": 7.059261897529552, "bearing_min": 45, "bearing_max": 180 },
+        { "lat": 52.46587693157471,  "lon": 7.056903121094166, "bearing_min": 45, "bearing_max": 180 },
+        { "lat": 52.46607448355857,  "lon": 7.054627067433671, "bearing_min": 45, "bearing_max": 180 },
+        { "lat": 52.46594202648478,  "lon": 7.052143341263388, "bearing_min": 45, "bearing_max": 180 },
+        { "lat": 52.465520263377044, "lon": 7.050028635050751, "bearing_min": 45, "bearing_max": 180 },
+        { "lat": 52.46477057063362,  "lon": 7.048039179840771, "bearing_min": 45, "bearing_max": 180 }
+      ],
+      "2": [
+        { "lat": 52.46188185627324,  "lon": 7.066936105951527, "bearing_min": 135, "bearing_max": 270 },
+        { "lat": 52.46218530102317,  "lon": 7.067183158817841, "bearing_min": 135, "bearing_max": 270 },
+        { "lat": 52.46834183127601,  "lon": 7.0681758686813225,"bearing_min": 135, "bearing_max": 270 },
+        { "lat": 52.469166056105934, "lon": 7.06876927911631,  "bearing_min": 135, "bearing_max": 270 },
+        { "lat": 52.470561229691555, "lon": 7.0704053154495625,"bearing_min": 135, "bearing_max": 270 },
+        { "lat": 52.47130381897537,  "lon": 7.0708014432573805,"bearing_min": 135, "bearing_max": 270 },
+        { "lat": 52.483631900448216, "lon": 7.0716277541446,   "bearing_min": 135, "bearing_max": 270 }
+      ],
+      "3": [
+        { "lat": 52.46177437160637,  "lon": 7.066917827627179, "bearing_min": 225, "bearing_max": 345 },
+        { "lat": 52.45947533100704,  "lon": 7.071802866731588, "bearing_min": 225, "bearing_max": 345 },
+        { "lat": 52.458474819489595, "lon": 7.074611976425473, "bearing_min": 225, "bearing_max": 345 },
+        { "lat": 52.457740986837734, "lon": 7.077604198409631, "bearing_min": 225, "bearing_max": 345 },
+        { "lat": 52.45726296371865,  "lon": 7.0809484933921,   "bearing_min": 225, "bearing_max": 345 },
+        { "lat": 52.45686654217059,  "lon": 7.0884574550218815,"bearing_min": 225, "bearing_max": 345 }
+      ],
+      "4": [
+        { "lat": 52.461768577142124, "lon": 7.0667946674725215,"bearing_min": 330, "bearing_max": 80 },
+        { "lat": 52.46138424835982,  "lon": 7.066497947654483, "bearing_min": 330, "bearing_max": 80 },
+        { "lat": 52.46082883392543,  "lon": 7.066706086083286, "bearing_min": 330, "bearing_max": 80 },
+        { "lat": 52.46033394915199,  "lon": 7.0669534943177155,"bearing_min": 330, "bearing_max": 80 },
+        { "lat": 52.45986187461821,  "lon": 7.0667879102617235,"bearing_min": 330, "bearing_max": 80 },
+        { "lat": 52.458788871912475, "lon": 7.064744612573747, "bearing_min": 330, "bearing_max": 80 },
+        { "lat": 52.45429460160858,  "lon": 7.060152379669006, "bearing_min": 330, "bearing_max": 80 }
+      ]
     }
   },
   {
@@ -116,6 +505,42 @@
       "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
       "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
       "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
+    },
+    "lines": {
+      "1": [
+        { "lat": 52.45684710124843,  "lon": 7.089611238098854, "bearing_min": 45, "bearing_max": 170 },
+        { "lat": 52.45711594533722,  "lon": 7.083345970490541, "bearing_min": 45, "bearing_max": 170 },
+        { "lat": 52.45740221761241,  "lon": 7.079650812566882, "bearing_min": 45, "bearing_max": 170 },
+        { "lat": 52.45809775650193,  "lon": 7.075962013067397, "bearing_min": 45, "bearing_max": 170 },
+        { "lat": 52.459002194637094, "lon": 7.073055130610015, "bearing_min": 45, "bearing_max": 170 },
+        { "lat": 52.460088861673256, "lon": 7.070443580132206, "bearing_min": 45, "bearing_max": 170 },
+        { "lat": 52.461383574579855, "lon": 7.067774207448082, "bearing_min": 45, "bearing_max": 170 }
+      ],
+      "2": [
+        { "lat": 52.45691012134429,  "lon": 7.089743155900692, "bearing_min": 170, "bearing_max": 270 },
+        { "lat": 52.458085641247266, "lon": 7.089920968426156, "bearing_min": 170, "bearing_max": 270 },
+        { "lat": 52.45929073326528,  "lon": 7.090094087962257, "bearing_min": 170, "bearing_max": 270 },
+        { "lat": 52.4598612606986,   "lon": 7.090424510368138, "bearing_min": 170, "bearing_max": 270 },
+        { "lat": 52.46079121432999,  "lon": 7.091470245381373, "bearing_min": 170, "bearing_max": 270 },
+        { "lat": 52.47411131428072,  "lon": 7.108117755842244, "bearing_min": 170, "bearing_max": 270 }
+      ],
+      "3": [
+        { "lat": 52.45682731808202,  "lon": 7.090008065260747, "bearing_min": 225, "bearing_max": 330 },
+        { "lat": 52.45695798836422,  "lon": 7.093254775201075, "bearing_min": 225, "bearing_max": 330 },
+        { "lat": 52.457424345542165, "lon": 7.09717708810112,  "bearing_min": 225, "bearing_max": 330 },
+        { "lat": 52.458075411893105, "lon": 7.100513831494055, "bearing_min": 225, "bearing_max": 330 },
+        { "lat": 52.460354936389706, "lon": 7.109996693157228, "bearing_min": 225, "bearing_max": 330 },
+        { "lat": 52.46058624859921,  "lon": 7.112755701816866, "bearing_min": 225, "bearing_max": 330 },
+        { "lat": 52.46051356101111,  "lon": 7.1168987771606,   "bearing_min": 225, "bearing_max": 330 }
+      ],
+      "4": [
+        { "lat": 52.456783422130854, "lon": 7.0897638015582345,"bearing_min": 315, "bearing_max": 60 },
+        { "lat": 52.45423617465292,  "lon": 7.089475657892194, "bearing_min": 315, "bearing_max": 60 },
+        { "lat": 52.451549516608935, "lon": 7.0890454941283565,"bearing_min": 315, "bearing_max": 60 },
+        { "lat": 52.44939413599934,  "lon": 7.088490571637976, "bearing_min": 315, "bearing_max": 60 },
+        { "lat": 52.447434432019776, "lon": 7.087741307117398, "bearing_min": 315, "bearing_max": 60 },
+        { "lat": 52.44487794518892,  "lon": 7.086218048320973, "bearing_min": 315, "bearing_max": 60 }
+      ]
     }
   },
   {
@@ -126,6 +551,38 @@
       "1": { "left": ["red", 10], "center": ["green", 8], "right": ["red", 5] },
       "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
       "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] }
+    },
+    "lines": {
+      "1": [
+        { "lat": 52.46057515005148,  "lon": 7.118478752167334, "bearing_min": 30, "bearing_max": 160 },
+        { "lat": 52.46049427120994,  "lon": 7.116917895233911, "bearing_min": 30, "bearing_max": 160 },
+        { "lat": 52.46057758697245,  "lon": 7.114134549936239, "bearing_min": 30, "bearing_max": 160 },
+        { "lat": 52.46051157942668,  "lon": 7.11158710916726,  "bearing_min": 30, "bearing_max": 160 },
+        { "lat": 52.46018022915703,  "lon": 7.109311601378749, "bearing_min": 30, "bearing_max": 160 },
+        { "lat": 52.45937542708242,  "lon": 7.105834507894258, "bearing_min": 30, "bearing_max": 160 },
+        { "lat": 52.45760230151333,  "lon": 7.098266728697865, "bearing_min": 30, "bearing_max": 160 },
+        { "lat": 52.45721579700947,  "lon": 7.09575242865202,  "bearing_min": 30, "bearing_max": 160 },
+        { "lat": 52.45687348522773,  "lon": 7.091728057997017, "bearing_min": 30, "bearing_max": 160 }
+      ],
+      "2": [
+        { "lat": 52.46060875731595,  "lon": 7.118606690923258, "bearing_min": 210, "bearing_max": 340 },
+        { "lat": 52.46083335956001,  "lon": 7.120481582810157, "bearing_min": 210, "bearing_max": 340 },
+        { "lat": 52.46151998063351,  "lon": 7.123512696729733, "bearing_min": 210, "bearing_max": 340 },
+        { "lat": 52.462089903028954, "lon": 7.12674844739422,  "bearing_min": 210, "bearing_max": 340 },
+        { "lat": 52.462627181585106, "lon": 7.132825038266617, "bearing_min": 210, "bearing_max": 340 },
+        { "lat": 52.464181070157366, "lon": 7.156289700629685, "bearing_min": 210, "bearing_max": 340 }
+      ],
+      "3": [
+        { "lat": 52.46051893474291,  "lon": 7.118543958362295, "bearing_min": 340, "bearing_max": 90 },
+        { "lat": 52.46016265741321,  "lon": 7.118481228398565, "bearing_min": 340, "bearing_max": 90 },
+        { "lat": 52.459887712299235, "lon": 7.118143575327565, "bearing_min": 340, "bearing_max": 90 },
+        { "lat": 52.45883518173031,  "lon": 7.115898033852176, "bearing_min": 340, "bearing_max": 90 },
+        { "lat": 52.45767577980732,  "lon": 7.113914243127908, "bearing_min": 340, "bearing_max": 90 },
+        { "lat": 52.45568368664999,  "lon": 7.111321145630114, "bearing_min": 340, "bearing_max": 90 },
+        { "lat": 52.44915495894111,  "lon": 7.103233741599922, "bearing_min": 340, "bearing_max": 90 },
+        { "lat": 52.44779021924569,  "lon": 7.101949778754886, "bearing_min": 340, "bearing_max": 90 },
+        { "lat": 52.445321646393126, "lon": 7.0995767449580285,"bearing_min": 340, "bearing_max": 90 }
+      ]
     }
   },
   {
@@ -137,9 +594,47 @@
       "2": { "left": ["green", 12], "center": ["red", 8], "right": ["green", 5] },
       "3": { "left": ["red", 6], "center": ["green", 10], "right": ["red", 4] },
       "4": { "left": ["green", 7], "center": ["red", 9], "right": ["green", 6] }
+    },
+    "lines": {
+      "1": [
+        { "lat": 52.46438274412276,  "lon": 7.158539718158977,  "bearing_min": 10, "bearing_max": 170 },
+        { "lat": 52.46423495229104,  "lon": 7.1575969182671315, "bearing_min": 10, "bearing_max": 170 },
+        { "lat": 52.46250671588376,  "lon": 7.131547005501375,  "bearing_min": 10, "bearing_max": 170 },
+        { "lat": 52.462240161856585, "lon": 7.1283367692353465, "bearing_min": 10, "bearing_max": 170 },
+        { "lat": 52.461849834581585, "lon": 7.125416025315758,  "bearing_min": 10, "bearing_max": 170 },
+        { "lat": 52.4612443516144,   "lon": 7.122336208924878,  "bearing_min": 10, "bearing_max": 170 }
+      ],
+      "2": [
+        { "lat": 52.46443982416503,  "lon": 7.158573555605727,  "bearing_min": 80, "bearing_max": 225 },
+        { "lat": 52.46485330612509,  "lon": 7.1583230641024045, "bearing_min": 80, "bearing_max": 225 },
+        { "lat": 52.46515347514293,  "lon": 7.157821035468146,  "bearing_min": 80, "bearing_max": 225 },
+        { "lat": 52.4652838195548,   "lon": 7.157126732561721,  "bearing_min": 80, "bearing_max": 225 },
+        { "lat": 52.46534238745858,  "lon": 7.156487562165154,  "bearing_min": 80, "bearing_max": 225 },
+        { "lat": 52.46556022957341,  "lon": 7.155858228119087,  "bearing_min": 80, "bearing_max": 225 },
+        { "lat": 52.46598705163632,  "lon": 7.155362329425685,  "bearing_min": 80, "bearing_max": 225 },
+        { "lat": 52.46815479932573,  "lon": 7.1539475376343376, "bearing_min": 80, "bearing_max": 225 }
+      ],
+      "3": [
+        { "lat": 52.46441077281506,  "lon": 7.158689753134553,  "bearing_min": 200, "bearing_max": 315 },
+        { "lat": 52.46510711163876,  "lon": 7.161723338652479,  "bearing_min": 200, "bearing_max": 315 },
+        { "lat": 52.471760289969836, "lon": 7.188253922839635,  "bearing_min": 200, "bearing_max": 315 },
+        { "lat": 52.47248027725814,  "lon": 7.190538621213278,  "bearing_min": 200, "bearing_max": 315 },
+        { "lat": 52.47433598089577,  "lon": 7.193980226543346,  "bearing_min": 200, "bearing_max": 315 }
+      ],
+      "4": [
+        { "lat": 52.464339352987565, "lon": 7.158650538931255,  "bearing_min": 230, "bearing_max": 30 },
+        { "lat": 52.46364164954878,  "lon": 7.159117322296083,  "bearing_min": 230, "bearing_max": 30 },
+        { "lat": 52.46342909696463,  "lon": 7.159403796713718,  "bearing_min": 230, "bearing_max": 30 },
+        { "lat": 52.463339606917515, "lon": 7.15979572070529,   "bearing_min": 230, "bearing_max": 30 },
+        { "lat": 52.46331976947141,  "lon": 7.160425533074402,  "bearing_min": 230, "bearing_max": 30 },
+        { "lat": 52.46435057958354,  "lon": 7.163625321452173,  "bearing_min": 230, "bearing_max": 30 },
+        { "lat": 52.46459781976699,  "lon": 7.164377223285982,  "bearing_min": 230, "bearing_max": 30 },
+        { "lat": 52.46487304892767,  "lon": 7.165835906827141,  "bearing_min": 230, "bearing_max": 30 }
+      ]
     }
   }
 ]
+
 
 
 
