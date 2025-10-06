@@ -6,6 +6,23 @@
     "directions": {
       "1": { "left": ["green", 12], "center": ["red", 8], "right": ["none", -1] },
       "2": { "left": ["red", 10], "center": ["green", 15], "right": ["red", 5] }
+    },
+    "lines": {
+      "1": [
+        { "lat": 52.59876778534823, "lon": 6.86123892752903, "bearing_min": 0, "bearing_max": 135 },
+        { "lat": 52.598385230684926, "lon": 6.859580893955268, "bearing_min": 0, "bearing_max": 135 },
+        { "lat": 52.5981492171928, "lon": 6.859057001827182, "bearing_min": 0, "bearing_max": 135 },
+        { "lat": 52.59778430195959, "lon": 6.858585566156194, "bearing_min": 0, "bearing_max": 135 },
+        { "lat": 52.59735746102817, "lon": 6.858279070557074, "bearing_min": 0, "bearing_max": 135 },
+        { "lat": 52.58172886905038, "lon": 6.853190941692077, "bearing_min": 0, "bearing_max": 135 }
+      ],
+      "2": [
+        { "lat": 52.59885453801118, "lon": 6.861272703527305, "bearing_min": 110, "bearing_max": 240 },
+        { "lat": 52.59948423946179, "lon": 6.860975155208649, "bearing_min": 110, "bearing_max": 240 },
+        { "lat": 52.59991086734655, "lon": 6.860675678112187, "bearing_min": 110, "bearing_max": 240 },
+        { "lat": 52.600647037508935, "lon": 6.859761341463212, "bearing_min": 110, "bearing_max": 240 },
+        { "lat": 52.60301265293785, "lon": 6.856555601451078, "bearing_min": 110, "bearing_max": 240 }
+      ]
     }
   },
   {
@@ -634,6 +651,7 @@
     }
   }
 ]
+
 
 
 
